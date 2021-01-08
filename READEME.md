@@ -1,0 +1,3 @@
+# API REST feita em NodeJS com Express. Testes com Jest. 
+
+## Em desenvolvimento...
