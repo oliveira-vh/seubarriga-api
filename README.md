@@ -1,3 +1,3 @@
-# API REST feita em NodeJS com Express. Testes com Jest. 
+# API REST feita em NodeJS com Express (metodologia TDD). Testes com Jest. 
 
 ## Em desenvolvimento...
